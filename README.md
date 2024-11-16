@@ -28,6 +28,13 @@ Execute the C Program for the desired output.
 
 
 ## OUTPUT
+### ./shm.o
+![Screenshot from 2024-11-16 13-20-05](https://github.com/user-attachments/assets/6bc977ca-6897-4372-8975-a72caf4abc06)
+
+### ./shm1.o
+![Screenshot from 2024-11-16 13-20-21](https://github.com/user-attachments/assets/f48eaa8f-180a-4dc4-b0a1-d45fca8297e2)
+### ipcs
+![Screenshot from 2024-11-16 13-22-03](https://github.com/user-attachments/assets/64f6980e-729e-4d8d-94f4-fbc9936c3be2)
 
 
 # RESULT:
